@@ -4,8 +4,8 @@ const { REST, Routes } = require('discord.js');
 
 const commands = [
   {
-    name: 'ping',
-    description: 'Replies with Pong!',
+    name: 'create',
+    description: 'Generate a new short URL',
   },
 ];
 
